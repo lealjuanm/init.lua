@@ -2,7 +2,7 @@ Personal nvim setting
 
 # install 
 - $ git clone URL ~/.config
-- instal packer
+- install packer
 - $ cd ~/.config/nvim 
 - $ vim .
 
