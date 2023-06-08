@@ -7,3 +7,23 @@ Personal nvim setting
 - $ vim .
 
 # before open vim Install packer !!!!! 
+
+   Love          Love
+  LoveLoveLoveLoveLove
+LoveLoveLoveLoveLoveLove
+LoveLoveLoveLoveLoveLove
+LoveLoveLoveLoveLoveLove
+  LoveLoveLoveLoveLove
+    LoveLoveLoveLove
+      LoveLoveLove
+          Love
+
+# Todo 
+- add plugins
+     * undo tree 
+     * telescope
+
+
+# log 
+
+
